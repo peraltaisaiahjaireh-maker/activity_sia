@@ -1,0 +1,28 @@
+{
+  "name": "peralta.sia",
+  "version": "1.0.0",
+  "description": "Classroom activities ",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "homepage": "https://github.com/peraltaisaiahjaireh-maker/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/peraltaisaiahjaireh-maker/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltaisaiahjaireh-maker/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Peralta, Isaiah Jaireh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
